@@ -1,4 +1,4 @@
-# GraficasApp - Angular
+# DirectivasApp - Angular
 
 El proyecto fue elaborado con [Angular CLI](https://github.com/angular/angular-cli) versión 13.3.3.
 ## **Funcionalidad**
